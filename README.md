@@ -4,4 +4,4 @@ Este paquete contiene:
 - Script deploy.sh
 - Instrucciones para integración con GitHub
 -### Prueba de release automático con Jenkins (evidencia final)
--### Prueba de release automático con Jenkins 2
+-### Segundo cambio para release automático
