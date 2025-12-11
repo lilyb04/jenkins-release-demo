@@ -11,3 +11,6 @@ Este paquete contiene:
 -### noveno  cambio para release automático
 -### decimo cambio para release automático
 -### oncevo cambio para release automático
+## Notas personales del proyecto
+Este proyecto fue configurado para pruebas de release automático con Jenkins, Docker y GitHub.  
+Los comandos utilizados para la construcción del contenedor se encuentran en los a
